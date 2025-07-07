@@ -1,10 +1,10 @@
-Name:       rustdesk
+Name:       rssa
 Version:    1.4.0
 Release:    0
 Summary:    RPM package
 License:    GPL-3.0
-URL:        https://rustdesk.com
-Vendor:     rustdesk <info@rustdesk.com>
+URL:        https://rssa-998-1.com
+Vendor:     rssa <info@rssa.com>
 Requires:   gtk3 libxcb libxdo libXfixes alsa-lib libva2 pam gstreamer1-plugins-base
 Recommends: libayatana-appindicator-gtk3
 
